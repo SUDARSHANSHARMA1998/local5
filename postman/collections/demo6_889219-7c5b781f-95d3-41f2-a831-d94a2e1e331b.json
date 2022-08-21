@@ -1,0 +1,22 @@
+{
+	"info": {
+		"_postman_id": "7c5b781f-95d3-41f2-a831-d94a2e1e331b",
+		"name": "demo6",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "889219-7c5b781f-95d3-41f2-a831-d94a2e1e331b"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"id": "d8d702c5-4837-4492-b934-6b51f5f935e3",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	]
+}

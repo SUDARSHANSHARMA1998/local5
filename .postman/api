@@ -1,11 +1,9 @@
-id = 84c9fe8a-5bcf-4739-a075-ce0a5a9c241f
+id = 7d794aea-2e6c-4c61-8e25-828e648d43f9
 
 [relations]
 
 [relations.collections]
 rootDirectory = postman/collections
-files[] = {"id":"3a2bc8a9-367b-43e8-861d-4281b4b13741","path":"New Collection Test 2_889219-3a2bc8a9-367b-43e8-861d-4281b4b13741.json","metaData":{}}
-files[] = {"id":"7c5b781f-95d3-41f2-a831-d94a2e1e331b","path":"demo6_889219-7c5b781f-95d3-41f2-a831-d94a2e1e331b.json","metaData":{}}
 
 [relations.collections.metaData]
 
